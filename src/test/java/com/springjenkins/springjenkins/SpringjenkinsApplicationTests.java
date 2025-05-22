@@ -13,7 +13,7 @@ class SpringjenkinsApplicationTests {
 	void contextLoads() {
 
 		logger.info("testing");
-logger.info("----------------------------------===")
+logger.info("----------------------------------===");
 	}
 
 }
